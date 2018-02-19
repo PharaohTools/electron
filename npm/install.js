@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var version = require('./package').version
+var version = 1.8.2
 
 var fs = require('fs')
 var os = require('os')
